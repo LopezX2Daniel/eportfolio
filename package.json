@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/LopezX2Daniel/eportfolio/issues"
   },
-  "homepage": "https://lopezx2daniel.github.io/eportfolio/",
+  "homepage": "https://lopezx2daniel.github.io/eportfolio",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
