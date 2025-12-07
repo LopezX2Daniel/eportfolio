@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "private": "true",
   "description": "Personal Portfolio",
-  "source": "src/index.html",
+  "source": "docs/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
